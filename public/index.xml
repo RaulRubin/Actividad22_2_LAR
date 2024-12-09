@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Actividad22_2_LAR</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Actividad22_2_LAR</description>
+    <image>
+      <title>Actividad22_2_LAR</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 09 Dec 2024 09:41:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fnaf</title>
+      <link>http://localhost:1313/posts/fnaf/fnaf/</link>
+      <pubDate>Mon, 09 Dec 2024 09:41:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/fnaf/fnaf/</guid>
+      <description>&lt;h1 id=&#34;historia-de-five-nights-at-freddys-fnaf&#34;&gt;&lt;strong&gt;Historia de Five Nights at Freddy&amp;rsquo;s (FNAF)&lt;/strong&gt;&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;introducción&#34;&gt;&lt;strong&gt;Introducción&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Five Nights at Freddy&amp;rsquo;s&lt;/em&gt; (FNAF) es una franquicia de videojuegos de terror creada por &lt;strong&gt;Scott Cawthon&lt;/strong&gt;. La historia gira en torno a &lt;strong&gt;Freddy Fazbear&amp;rsquo;s Pizza&lt;/strong&gt;, un restaurante inspirado en locales reales como Chuck E. Cheese, que esconde oscuros secretos relacionados con asesinatos, animatrónicos poseídos y un complejo trasfondo que se revela a lo largo de varios juegos.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Fnaf_Movie&#34; loading=&#34;lazy&#34; src=&#34;Fnaf_Movie.jpg&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;capítulos-principales-de-la-saga&#34;&gt;&lt;strong&gt;Capítulos principales de la saga&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;1-freddy-fazbears-pizza&#34;&gt;&lt;strong&gt;1. Freddy Fazbear&amp;rsquo;s Pizza&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;El restaurante:&lt;/strong&gt; Un lugar aparentemente inocente donde las familias disfrutan de comida y entretenimiento proporcionado por animatrónicos.
+&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;Freddy_Fazbear_Pizza.png&#34;&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;El incidente:&lt;/strong&gt; Comienzan a suceder desapariciones y asesinatos de niños, que llevan al cierre temporal del restaurante.
+&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;William_Afton.png&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-los-animatrónicos-poseídos&#34;&gt;&lt;strong&gt;2. Los animatrónicos poseídos&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Cada animatrónico está poseído por el espíritu de un niño asesinado.&lt;/li&gt;
+&lt;li&gt;Los principales animatrónicos son:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Freddy Fazbear&lt;/strong&gt;: El líder del grupo.
+&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;Freddy.jpg&#34;&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bonnie&lt;/strong&gt;: Guitarrista animatrónico.
+&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;Bonnie.png&#34;&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chica&lt;/strong&gt;: La animatrónica encargada de la comida.
+&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;Chica.gif&#34;&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Foxy&lt;/strong&gt;: El pirata rebelde.
+&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;Foxy.png&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-william-afton-y-los-asesinatos&#34;&gt;&lt;strong&gt;3. William Afton y los asesinatos&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;William Afton&lt;/strong&gt;, también conocido como &lt;em&gt;The Purple Guy&lt;/em&gt;, es el principal antagonista de la serie.&lt;/li&gt;
+&lt;li&gt;Es el responsable de los asesinatos en Freddy Fazbear&amp;rsquo;s Pizza.&lt;/li&gt;
+&lt;li&gt;Sus acciones llevan a la creación de los animatrónicos vengativos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;William_Afton2.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
