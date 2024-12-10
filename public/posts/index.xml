@@ -2,35 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Actividad22_2_LAR</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on Actividad22_2_LAR</description>
     <image>
       <title>Actividad22_2_LAR</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//localhost:1313/images/papermod-cover.png</url>
+      <link>//localhost:1313/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Dec 2024 09:41:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prueba</title>
+      <link>//localhost:1313/posts/prueba/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/prueba/</guid>
+      <description>&lt;h1 id=&#34;post-de-prueba&#34;&gt;Post de prueba&lt;/h1&gt;
+&lt;p&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;./Fnaf/Bonnie.png&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;</description>
+    </item>
     <item>
       <title>Fnaf</title>
-      <link>http://localhost:1313/posts/fnaf/fnaf/</link>
-      <pubDate>Mon, 09 Dec 2024 09:41:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/fnaf/fnaf/</guid>
+      <link>//localhost:1313/posts/fnaf/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/fnaf/</guid>
       <description>&lt;h1 id=&#34;historia-de-five-nights-at-freddys-fnaf&#34;&gt;&lt;strong&gt;Historia de Five Nights at Freddy&amp;rsquo;s (FNAF)&lt;/strong&gt;&lt;/h1&gt;
-&lt;hr&gt;
 &lt;h2 id=&#34;introducción&#34;&gt;&lt;strong&gt;Introducción&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Five Nights at Freddy&amp;rsquo;s&lt;/em&gt; (FNAF) es una franquicia de videojuegos de terror creada por &lt;strong&gt;Scott Cawthon&lt;/strong&gt;. La historia gira en torno a &lt;strong&gt;Freddy Fazbear&amp;rsquo;s Pizza&lt;/strong&gt;, un restaurante inspirado en locales reales como Chuck E. Cheese, que esconde oscuros secretos relacionados con asesinatos, animatrónicos poseídos y un complejo trasfondo que se revela a lo largo de varios juegos.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;https://www.universalpictures.es/tl_files/content/movies/five_nights/five-nights_header-mobile.jpg&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
+&lt;p&gt;&lt;img alt=&#34;Fnaf_Movie&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/posts/fnaf/posts/Fnaf/Fnaf_Movie.jpg&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;capítulos-principales-de-la-saga&#34;&gt;&lt;strong&gt;Capítulos principales de la saga&lt;/strong&gt;&lt;/h2&gt;
 &lt;h3 id=&#34;1-freddy-fazbears-pizza&#34;&gt;&lt;strong&gt;1. Freddy Fazbear&amp;rsquo;s Pizza&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;El restaurante:&lt;/strong&gt; Un lugar aparentemente inocente donde las familias disfrutan de comida y entretenimiento proporcionado por animatrónicos.
-&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;https://es.gizmodo.com/app/uploads/2023/10/4b987edf075f69e83101471903aecc1f.jpg&#34;&gt;&lt;/li&gt;
+&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/posts/fnaf/posts/Fnaf/Freddy_Fazbear_Pizza.png&#34;&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;El incidente:&lt;/strong&gt; Comienzan a suceder desapariciones y asesinatos de niños, que llevan al cierre temporal del restaurante.
-&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;https://preview.redd.it/xgb7r0dhivm71.jpg?auto=webp&amp;s=bc2f57a5f2d64bb72985693c908b422c5db98618&#34;&gt;&lt;/li&gt;
+&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/posts/fnaf/posts/Fnaf/William_Afton.png&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;2-los-animatrónicos-poseídos&#34;&gt;&lt;strong&gt;2. Los animatrónicos poseídos&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
@@ -38,13 +45,13 @@
 &lt;li&gt;Los principales animatrónicos son:
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Freddy Fazbear&lt;/strong&gt;: El líder del grupo.
-&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/6/6b/FFInfoboxImage.png/revision/latest?cb=20231216120333&#34;&gt;&lt;/li&gt;
+&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/posts/fnaf/posts/Fnaf/Freddy.jpg&#34;&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Bonnie&lt;/strong&gt;: Guitarrista animatrónico.
-&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;https://preview.redd.it/is-it-just-me-or-is-fnaf-1-bonnie-getting-more-and-more-blue-v0-x5xj7uj9skeb1.jpg?width=780&amp;format=pjpg&amp;auto=webp&amp;s=7d43f90251b2a6e8cad6a77d52ba6340d3bccf20&#34;&gt;&lt;/li&gt;
+&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/posts/fnaf/posts/Fnaf/Bonnie.png&#34;&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Chica&lt;/strong&gt;: La animatrónica encargada de la comida.
-&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/7/73/Chica_%28Original%29.png/revision/latest?cb=20190304210559&amp;path-prefix=es&#34;&gt;&lt;/li&gt;
+&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/posts/fnaf/posts/Fnaf/Chica.gif&#34;&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Foxy&lt;/strong&gt;: El pirata rebelde.
-&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/0/07/Foxy_%28Original%29.png/revision/latest?cb=20190304234251&amp;path-prefix=es&#34;&gt;&lt;/li&gt;
+&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/posts/fnaf/posts/Fnaf/Foxy.png&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -54,7 +61,7 @@
 &lt;li&gt;Es el responsable de los asesinatos en Freddy Fazbear&amp;rsquo;s Pizza.&lt;/li&gt;
 &lt;li&gt;Sus acciones llevan a la creación de los animatrónicos vengativos.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;https://www.sdpnoticias.com/resizer/v2/4GGS3HCG55A3DIYVWTJK56WVE4.jpeg?smart=true&amp;auth=06f99ffa50711d012b42d687740ce81a44c644a0c686ef8b7b1acd430c4a5884&amp;width=1200&amp;height=628&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/posts/fnaf/posts/Fnaf/William_Afton2.png&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
